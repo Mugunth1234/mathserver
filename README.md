@@ -136,6 +136,8 @@ urlpatterns = [
 ![Screenshot 2024-12-05 200209](https://github.com/user-attachments/assets/f784850e-e6a2-414a-990f-6db84fec5d50)
 
 # HOMEPAGE:
+![Screenshot 2024-12-13 160429](https://github.com/user-attachments/assets/c74ac1a7-cbef-416f-baaf-f49969f30d00)
+
 ![Screenshot 2024-12-05 200147](https://github.com/user-attachments/assets/c6b75614-718d-4698-ab77-e21c35272f38)
 
 
